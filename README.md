@@ -16,3 +16,7 @@
 - I’m looking for help with [my website](https://github.com/bbcgames/bbcgames.github.io/). Make a pull if you can!
 
 - All of my projects are available at [bbcgames.github.io](https://bbcgames.github.io/) and my [repos tab](https://github.com/bbcgames?tab=repositories).
+
+- Also go follow my spotify
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/09sUeRJ1zt4ApzCJ39Hm7Y?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
