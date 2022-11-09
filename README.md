@@ -19,4 +19,4 @@
 
 - Also go follow my spotify
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/09sUeRJ1zt4ApzCJ39Hm7Y?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Here](https://open.spotify.com/embed/artist/09sUeRJ1zt4ApzCJ39Hm7Y?utm_source=generator&theme=0)](https://open.spotify.com/artist/09sUeRJ1zt4ApzCJ39Hm7Y)
