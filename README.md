@@ -17,4 +17,6 @@
 
 - All of my projects are available at [bbcgames.github.io](https://bbcgames.github.io/) and my [repos tab](https://github.com/bbcgames?tab=repositories).
 
-- Also go follow my spotify [HERE](https://open.spotify.com/artist/09sUeRJ1zt4ApzCJ39Hm7Y)
+- Also follow my spotify:
+
+[Preview](https://open.spotify.com/embed-legacy/artist/09sUeRJ1zt4ApzCJ39Hm7Y?utm_source=generator&theme=0)
